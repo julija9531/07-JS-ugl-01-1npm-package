@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julija9531/07-JS-ugl-01-1npm-package.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Yuliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julija9531/07-JS-ugl-01-1npm-package/issues"
+  },
+  "homepage": "https://github.com/julija9531/07-JS-ugl-01-1npm-package#readme"
+}
